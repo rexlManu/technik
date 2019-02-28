@@ -1,0 +1,14 @@
+{
+  "name": "technik",
+  "version": "1.0.0",
+  "description": "a technik",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "technik"
+  ],
+  "author": "rexlManu",
+  "license": "Unlicense"
+}
